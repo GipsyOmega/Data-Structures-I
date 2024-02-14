@@ -1,0 +1,4 @@
+Name= Aryaman 
+Age: 18 
+Salary: 
+

@@ -1,0 +1,4 @@
+Name: Daksh 
+Age: 19 
+Salary: 2500
+
